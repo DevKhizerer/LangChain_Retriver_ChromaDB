@@ -1,5 +1,5 @@
 # LangChain_Retriver_ChromaDB
-Overview
+
 This project leverages LangChain and ChromaDB to create an efficient and effective retriever system. The provided Jupyter Notebook contains comprehensive instructions and serves as a boilerplate code for setting up and using this system.
 
 1. Boilerplate Code
